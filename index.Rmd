@@ -1,8 +1,7 @@
 ---
-title: "Callyan-Lacio-Research"
+title: "My Website"
 ---
+
 Hello, Website!
 
-My name is Callyan Lacio (she/her) I am pursuing a M.S in Integrative Biology under Dr. Laura Kloepper. 
 
-My research interests include studying the acoustic ecology of marine mammals. My current projects focus on actual vs perceived biodiversity of bat species in College Woods and estimating the chorusing activity of American Bullfrogs by quantifying total acoustic energy. 
